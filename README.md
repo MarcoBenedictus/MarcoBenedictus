@@ -9,7 +9,9 @@ $\color{#b19cd9}\textsf{\textit{A Junior Programmer}}$
 <br>
 $\color{#b19cd9}\textsf{\textit{Currently Interested in Game Development}}$
 
-[![Instagram](https://img.shields.io/badge/Instagram-ff88bf.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/marcbenedicts)
+<a href="https://www.instagram.com/marcbenedicts">
+    <img src="https://img.shields.io/badge/Instagram-ff88bf?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
 <br>
 </div>
