@@ -13,6 +13,8 @@ $\color{#b19cd9}\textsf{\textit{Currently Interested in Game Development}}$
     <img src="https://img.shields.io/badge/Instagram-ff88bf?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
+<br>
+
 <a href="https://marcobenedictus.vercel.app">
     <img src="https://img.shields.io/badge/📜_View_My_Portfolio-b19cd9?style=for-the-badge" alt="Portfolio" />
 </a>
