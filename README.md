@@ -13,5 +13,9 @@ $\color{#b19cd9}\textsf{\textit{Currently Interested in Game Development}}$
     <img src="https://img.shields.io/badge/Instagram-ff88bf?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
+<a href="YOUR_PORTFOLIO_LINK_HERE">
+    <img src="https://img.shields.io/badge/View_My_Portfolio-b19cd9?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
+</a>
+
 <br>
 </div>
