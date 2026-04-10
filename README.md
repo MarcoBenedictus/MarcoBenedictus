@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://limbuscompany.wiki.gg/images/The_Index_Logo.png?c58679" height="175" width="175" style="margin: 10px">
+<img src="https://limbuscompany.wiki.gg/images/The_Index_Logo.png" height="175" width="175" style="margin: 10px">
 <br>
 <br>
 
