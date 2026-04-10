@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/MarcoBenedictus/MarcoBenedictus/blob/main/IndexProselytesIcon.webp?raw=true" height="175" width="175" style="margin: 10px">
+<img src="https://github.com/MarcoBenedictus/MarcoBenedictus/blob/main/IndexProselytesIcon.webp?raw=true" height="205" width="175" style="margin: 10px">
 <br>
 <br>
 
