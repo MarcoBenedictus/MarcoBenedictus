@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://static.wikia.nocookie.net/omori/images/7/74/Basil_%28Toast%29.gif/revision/latest?cb=20220617070235" height="175" width="175" style="margin: 10px">
+<img src="https://limbuscompany.wiki.gg/images/The_Index_Logo.png?c58679" height="175" width="175" style="margin: 10px">
 <br>
 <br>
 
